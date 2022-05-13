@@ -1,34 +1,52 @@
 export const meta = {
-  title: 'LeBron James - Web Developer and Designer',
-  description: 'Hey, I\'m LeBron. I\'m a web developer and designer building things people love.'
+  title: 'John Patrick Madrigal - Senior Software Engineer',
+  description: 'Hey, I\'m John Patrick. I\'m a Senior Software Engineer with 9 years collective experience building, designing and maintaining websites, web apps, mobile apps and desktop apps. I have a Software Development Company name Zkript that focuses on providing solutions for businesses and organization to expedite and modernize their operations.'
 }
 
 export const hero = {
-  title: "Hey there! I'm LeBron James.",
-  desc: "I'm a web developer and designer building things people love."
+  title: "Hey there! I'm John Patrick Madrigal.",
+  desc: "Some people call me JP, John or Jepoy. I'm a Senior Software Engineer with 9 years collective experience building, designing and maintaining websites, web apps, mobile apps and desktop apps. I founded a company called <a href='https://zkript.com/' target='blank'><u><strong>Zkript Software Development Services</strong></u></a> that focuses on providing solutions for businesses and organization to expedite and modernize their operations."
 };
 
 export const projects = {
-  title: 'My Projects',
-  desc: "Here are some of my favorite projects that I've worked on.",
+  title: 'Projects',
+  desc: "Here are some of the recent projects that I've worked on.",
   projects: [
     {
-      title: 'Lakers Official',
-      description: 'Home to the Los-Angeles Lakers',
-      link: 'https://lakers.com',
+      title: 'Franklin Ticketing System',
+      description: 'Franklin\'s Wash Dry Fold is a Laundromat business in Antipolo, Rizal Philippines',
+      link: '',
+      github: 'jpmadrigal07/franklin'
+    },
+    {
+      title: 'Mr. Cool Ice Ticketing System',
+      description: 'Mr. Cool Ice is an Ice Plant business in Victoria, Laguna Philippines',
+      link: '',
+      github: 'jpmadrigal07/mrcoolice'
+    },
+    {
+      title: 'PPBMS Management System',
+      description: 'PPBMS is a Messengerial Company in San Pedro, Laguna Philippines',
+      link: '',
+      github: 'jpmadrigal07/ppbms-v2'
+    },
+    {
+      title: 'Printer Rentals PH Website',
+      description: 'Printer Rentals PH is a Printer Rental business in Taytay, Rizal Philippines',
+      link: 'https://printerrentalsph.com/',
       github: ''
     },
     {
-      title: 'Cool App',
-      description: 'A cool app!',
-      link: 'https://lebronscoolapp.com',
-      github: 'theking-lbj/cool-app'
+      title: 'Fremont Sign Company Website',
+      description: 'Fremont Sign Company is a Signage and Branding Solution business in Fremont, California USA',
+      link: 'https://fremontsigncompany.com/',
+      github: ''
     },
     {
-      title: 'Another app',
-      description: 'Another app!',
-      link: 'https://anotherlebronapp.com',
-      github: 'theking-lbj/another-app'
+      title: 'Robert Arthurs\' Website',
+      description: 'Robert Arthurs is a Business Coach and Consultant from North Vancouver, British Columbia, Canada',
+      link: 'https://www.robertarthurs.com/',
+      github: ''
     }
   ]
 };
@@ -36,22 +54,25 @@ export const projects = {
 export const stack = {
   title: 'My Stack',
   stack: [
-    'HTML',
-    'CSS',
-    'JavaScript',
-    'Typescript',
-    'React',
     'NextJS',
-    'TailwindCSS',
-    'Firebase',
-    'Git'
+    'React',
+    'NodeJS',
+    'Typescript',
+    'MongoDB',
+    'Wordpress',
+    'Tailwind CSS',
+    'Bootstrap',
+    'Git',
+    'Redux',
+    'React Query',
+    'MySQL',
+    'JavaScript'
   ]
 };
 
 export const contact = {
   title: 'Contact Me',
-  email: 'lebron@gmail.com',
-  github: 'theking-lbj',
-  dribbble: 'theking-lbj',
-  linkedin: 'theking-lbj'
+  email: 'jp.madrigal07@gmail.com',
+  github: 'https://github.com/jpmadrigal07',
+  linkedin: 'https://www.linkedin.com/in/john-patrick-madrigal-0b56b8144/'
 };

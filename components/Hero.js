@@ -25,7 +25,7 @@ export default function Hero() {
         />
       </div>
       <h1 className="mt-5 mb-4">{hero.title}</h1>
-      <p className="text-lg">{hero.desc}</p>
+      <p className="text-lg"><span dangerouslySetInnerHTML={{__html: hero.desc}}></span></p>
     </div>
   );
 }
