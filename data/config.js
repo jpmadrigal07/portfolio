@@ -74,5 +74,5 @@ export const contact = {
   title: 'Contact Me',
   email: 'jp.madrigal07@gmail.com',
   github: 'jpmadrigal07',
-  linkedin: 'john-patrick-madrigal-0b56b8144/'
+  linkedin: 'john-patrick-madrigal-0b56b8144'
 };
