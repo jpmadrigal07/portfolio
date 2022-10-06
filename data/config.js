@@ -1,11 +1,11 @@
 export const meta = {
   title: 'John Patrick Madrigal - Senior Software Engineer',
-  description: 'Hey, I\'m John Patrick. I\'m a Senior Software Engineer with 9 years collective experience building, designing and maintaining websites, web apps, mobile apps and desktop apps. I have a Software Development Company name Zkript that focuses on providing solutions for businesses and organization to expedite and modernize their operations.'
+  description: 'Hey, I\'m John Patrick. I\'m a Senior Software Engineer with 9 years collective experience building, designing and maintaining websites, web apps, mobile apps and desktop apps. I have a Software Development Company name Zkript Solutions OPC that focuses on providing solutions for businesses and organization to expedite and modernize their operations.'
 }
 
 export const hero = {
   title: "Hey there! I'm John Patrick Madrigal.",
-  desc: "Some people call me JP, John or Jepoy. I'm a Senior Software Engineer with 9 years collective experience building, designing and maintaining websites, web apps, mobile apps and desktop apps. I founded a company called <a href='https://zkript.com/' target='blank'><u><strong>Zkript Software Development Services</strong></u></a> that focuses on providing solutions for businesses and organization to expedite and modernize their operations."
+  desc: "Some people call me JP, John or Jepoy. I'm a Senior Software Engineer with 9 years collective experience building, designing and maintaining websites, web apps, mobile apps and desktop apps. I founded a company called <a href='https://zkript.dev/' target='blank'><u><strong>Zkript Solutions OPC</strong></u></a> that focuses on providing solutions for businesses and organization to expedite and modernize their operations by building desktop apps, web apps and mobile apps."
 };
 
 export const projects = {
@@ -72,7 +72,7 @@ export const stack = {
 
 export const contact = {
   title: 'Contact Me',
-  email: 'jp.madrigal07@gmail.com',
+  email: 'john@zkript.dev',
   github: 'jpmadrigal07',
   linkedin: 'john-patrick-madrigal-0b56b8144'
 };
